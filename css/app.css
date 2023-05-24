@@ -1,0 +1,662 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+@import url('./header.css');
+@import url('./footer.css');
+
+html, body {
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+}
+
+* {
+    font-family: 'Raleway', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Bebas Neue";
+    color: #32455f;
+}
+
+header {
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+    width: 100%;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.06);
+    padding: 1rem;
+    align-items: center;
+    position: fixed;
+    z-index: 9;
+}
+
+header > nav > a {
+    color: #32455f;
+    margin: 1rem;
+    transition: .2s;
+    border-bottom: 2px solid transparent;
+    text-decoration: none;
+}
+
+header > nav > a:hover {
+    border-bottom: 2px solid #32455f;
+    color: #32455f;
+}
+
+header > form {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.header-input {
+    border: 1px solid #666;
+    border-radius: 3rem;
+    padding: .5rem;
+}
+
+.header-search-icon {
+    position: absolute;
+    right: 1rem;
+}
+
+header > a {
+    color: #32455f;
+    font-size: 1.8rem;
+    text-decoration: none;
+}
+
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 2rem 5vw;
+    background: #fbfbf5;
+    border-bottom: 1rem solid #5f6551;
+    color: #5f6551;
+}
+
+footer h2, footer h3, footer h4 {
+    color: #5f6551;
+}
+
+.footer-info {
+    width: 40%;
+}
+
+.footer-nav {
+    width: 40%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.footer-item {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-logo {
+    margin-top: 10vh;
+}
+
+.footer-link {
+    color: #5f6551;
+    text-decoration: none;
+    line-height: 2rem;
+}
+
+.footer-link:hover {
+    text-decoration: underline;
+    color: #5f6551;
+}
+
+.intro {
+    min-height: 70vh;
+    background: url('../images/header-fon-all.png') no-repeat;
+    background-size: cover;
+}
+
+.intro-text-wrapper {
+    padding: 1.5rem;
+    padding-top: 15vh;
+    margin-left: 5vw;
+}
+
+.intro-text-wrapper h1 {
+    font-size: 4rem;
+    max-width: 300px;
+}
+
+.intro-text-wrapper p {
+    font-family: "Bebas Neue";
+    font-size: 2rem;
+    color: #32455f;
+    max-width: 230px;
+}
+
+.how-to-recover {
+    background: #fbfbf5;
+    padding: 5vh 5vw;
+    position: relative;
+}
+
+.how-to-recover > h2 {
+    font-size: 2.5rem;
+    max-width: 280px;
+}
+
+.divider {
+    height: 5px;
+    width: 100px;
+    background: #32455f;
+    
+}
+
+.recover-item {
+    border-radius: 1rem;
+    box-shadow: 0 0 10px rgba(0,0,0,0.06);
+    padding: 2rem;
+    margin: 2rem auto;
+}
+
+.recover-item__top {
+    padding-bottom: 1.5rem;
+    border-bottom: 2px solid #32455f;
+    margin-bottom: 1.5rem;
+}
+
+.dots {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.dot {
+    width: 10px;
+    height: 10px;
+    margin-right: 10px;
+    border: 1px solid #32455f;
+    border-radius: 50%;
+}
+
+.dot.active {
+    background: #32455f;
+}
+
+.crosses-right {
+    position: absolute;
+    right: 5vw;
+    top:5vh;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: space-between;
+}
+
+.crosses-right > .a {
+    margin-bottom: 10vh;
+}
+
+.crosses-right > .b {
+    top: 5vh;
+}
+
+.big-bend {
+    min-height: 40vh;
+    background: url('../images/big_bend_national.png') no-repeat center center;
+    background-size: cover;
+    position: relative;
+}
+
+.big-bend-bg {
+    background: #7962a88b;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    position: absolute;
+}
+
+.bend-wrapper {
+    padding: 1.5rem;
+    margin-left: 5vw;
+    position: relative;
+    width: 500px;
+    height: 300px;
+}
+
+.bend-wrapper * {
+    color: #fff;
+}
+
+.bend-wrapper > h2 {
+    font-size: 3.5rem;
+}
+
+.bend-right {
+    position: absolute;
+    right: 5vw;
+    bottom: 5vh;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
+
+.bend-right > h3 {
+    font-size: 2.5rem;
+    margin-bottom: .5rem;
+}
+
+.bend-right * {
+    color: #fff;
+    margin-bottom: 2rem;
+}
+
+.divider.white {
+    background: #fff;
+}
+
+.bend-wrapper img {
+    position: absolute;
+}
+
+.bend-wrapper img:first-child {
+    bottom:0;
+    left: 0;
+    transform: rotate(180deg);
+}
+
+.bend-wrapper img:last-child {
+    top:0;
+    right: 0;
+}
+
+.bend-button {
+    background: #fff;
+    padding: 1rem 2rem;
+    color: #32455f;
+    text-decoration: none;
+    border-radius: 3rem;
+}
+
+.rock-climbing {
+    height: 60vh;
+    background: url('../images/rock_climing.png') no-repeat center center;
+    background-size: cover;
+}
+
+.rock-climbing .heading-wrapper {
+    position: relative;
+    width: 200px;
+    height: 30%;
+    padding:1.5rem;
+    padding-top: 1vh;
+    margin-left: 5vw;
+}
+
+.rock-climbing .heading-wrapper h2 {
+    font-size: 3.5rem;
+}
+
+.rock-climbing .heading-wrapper img {
+    position: absolute;
+}
+
+.rock-climbing .heading-wrapper img:last-child {
+    top: 10px;
+    right: 60px;
+    transform: rotate(180deg);
+}
+.rock-climbing .heading-wrapper img:first-child {
+    top: 80%;
+    left: 0;
+    
+}
+
+.climbing-content {
+    margin-left: 5vw;
+    margin-top: 5vh;
+    width: 350px;
+}
+
+.climbing-content > p {
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid #32455f;
+}
+
+.places-to-visit {
+    padding: 10vh 5vw;
+    display: flex;
+    flex-direction: column;
+}
+
+.places-wrapper {
+    width: 350px;
+    height: 250px;
+    position: relative;
+}
+
+.places-wrapper h2 {
+    font-size: 3.5rem;
+}
+
+.places-wrapper > img:last-child {
+    position: absolute;
+    top: 0;
+    right: 0;
+    transform: rotate(180deg);
+}
+
+.places-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: left;
+}
+
+.places-item {
+    max-width: 300px;
+}
+
+.places-item * {
+    margin: 1rem 0;
+}
+
+.places-item > img {
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+}
+
+.places-item > h3 {
+    font-size: 2.5rem;
+}
+
+.places-item > p {
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid #32455f;
+}
+
+.places-button {
+    background: #32455f;
+    border-radius: 3rem;
+    padding: 1rem 2rem;
+    color: #fff;
+    text-decoration:none;
+    margin: 5vh auto 0;
+}
+
+.hiking-backpacking {
+    height:40vh;
+    background: url('../images/hikick_and_back.png') no-repeat center center;
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10vh 5vw;
+}
+
+.hiking-left h4 {
+    color: #fff;
+    font-size: 2.5rem;
+}
+
+.hiking-wrapper {
+    text-align: right;
+    max-width: 350px;
+    height: 300px;
+    position: relative;
+}
+
+.hiking-wrapper > h2 {
+    font-size: 3.5rem;
+    color: #fff;
+}
+
+.hiking-wrapper > h3 {
+    font-size: 2.5rem;
+    color: #fff;
+}
+
+.hiking-wrapper img:last-child {
+    transform: rotate(180deg);
+    left: 0;
+    bottom: 0;
+}
+
+.hiking-camping {
+    background: #fbfbf5;
+    min-height: 70vh;
+    padding: 10vh 5vw;
+}
+
+.hiking-camping h2 {
+    font-size: 3.5rem;
+    margin-bottom: 5vh;
+}
+
+.camping-item {
+    text-align: center;
+    max-width: 300px;
+    margin: 5vh auto;
+}
+
+.camping-item h3 {
+    font-size: 2.5rem;
+    margin: 1rem 0;
+}
+
+.camping-item p {
+    margin-bottom: 2rem;
+}
+
+.camping-button {
+    color: #fff;
+    border-radius: 3rem;
+    background: #32455f;
+    padding: 1rem 2rem;
+    text-decoration: none;
+}
+
+.mountaineering {
+    min-height: 70vh;
+    padding: 10vh 5vw;
+    background: url('../images/mountairening.png') no-repeat center center;
+    background-size: cover;
+    border-top: 5px solid #5f6551;
+}
+
+.mountaineering * {
+    color: #5f6551;
+}
+
+.mountain-wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    max-width: 400px;
+    width: 100%;
+    margin-left: auto;
+}
+
+.mountain-wrap .heading-wrapper {
+    position: relative;
+    padding: 1.5rem;
+}
+
+.mountain-wrap .heading-wrapper h2 {
+    font-size: 3rem;
+}
+
+.mountain-wrap .heading-wrapper img:last-child {
+    top:0;
+    right: 0;
+    position: absolute;
+    transform: rotate(180deg);
+}
+
+.mountain-wrap p {
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid #5f6551;
+}
+
+.last-blocks {
+    display: flex;
+    flex-direction: column;
+    min-height: 90vh;
+    background: url('../images/last_2_blocks.png') no-repeat center center;
+    background-size: cover;
+    position: relative;
+    align-items: center;
+}
+
+.last-blocks__top {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 7vh;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    width: 80%;
+}
+
+.last-blocks__bottom {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 1rem auto;
+    position: absolute;
+    bottom: 1rem;
+}
+
+.last-blocks__bottom h3 {
+    color: #fff;
+    font-size: 2.5rem;
+    max-width: 600px;
+    margin: 1vh auto 0;
+}
+
+.last-blocks__bottom img {
+    width: 100px;
+    height: auto;
+    text-align:center;
+    margin: 2vh auto 2vh;
+}
+
+.last-blocks__bottom .bend-button {
+    max-width: 200px;
+    margin: 5vh auto;
+}
+
+.lb-t__left * {
+    color: #fff;
+    font-size: 3em;
+}
+
+.lb-t__right * {
+    color: #fff;
+    font-family: "Bebas Neue";
+}
+
+.lb-t__left p {
+    font-family: "Bebas Neue";
+}
+
+.lb-t__right {
+    width: 50%;
+}
+
+.lb-t__right h1 {
+    font-size: 4rem;
+    margin: 0 0;
+    padding: 0 0;
+
+}
+
+.lb-t__right span b {
+    font-size: 2rem;
+}
+
+.lb-t__right p {
+    font-size: 2rem;
+    margin: 0;
+    padding: 0;
+}
+
+
+@media screen and (max-width: 1100px) {
+    header nav, header form, .bend-right, .lb-t__right {
+        display: none;
+    }
+
+    footer, .footer-nav, .places-row, .hiking-backpacking, .last-blocks__top {
+        flex-direction: column;
+        margin-top: 3rem;
+    }
+
+    .footer-info, .footer-nav {
+        width: 90%;
+    }
+
+    .how-to-recover .d-flex {
+        overflow-x: scroll;
+        width: auto;
+    }
+
+    .recover-item__top > .d-flex > img {
+        width: 100px;
+        height: 100px;
+    }
+
+    .heading-wrapper {
+        height: 100px;
+        width: 100%;
+        padding: 0;
+    }
+
+    .climbing-content {
+        width: 80%;
+        margin-top: 0;
+        overflow: hidden;
+    }
+
+    .hiking-backpacking {
+        height: 10%;
+    }
+
+    .hiking-camping .d-flex {
+        flex-direction: column !important;
+    }
+
+    .mountaineering h3 {
+        margin-top: 5vh;
+    }
+
+    .lb-t__left .lb-t__right {
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .divider {
+        margin:5vh auto;
+    }
+
+    .big-bend {
+        min-height: 400px;
+    }
+
+    .rock-climbing .heading-wrapper {
+        padding-top: 1rem;
+        margin-top: 1rem;
+        height: 220px;
+    }
+}

@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72ae2ae9-0dc2-442a-a3cd-8017e8d99ae1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../ОПП/javalabs/in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ОПП/javalabs/out.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ОПП/javalabs/src/OKP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ОПП/javalabs/src/laba10/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ОПП/javalabs/src/laba10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ОПП/javalabs/src/laba10/Parrot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ОПП/javalabs/src/laba10/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ОПП/javalabs/src/laba10/laba15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ОПП/javalabs/src/laba13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ОПП/javalabs/src/laba14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ОПП/javalabs/src/laba14_permutution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ОПП/javalabs/src/laba7_Audio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ОПП/javalabs/src/laba7_Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ОПП/javalabs/src/laba7_Catalog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ОПП/javalabs/src/laba7_GarageCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ОПП/javalabs/src/laba7_Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ОПП/javalabs/src/laba7_Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ОПП/javalabs/src/laba7_myFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ОПП/javalabs/src/laba7_test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ОПП/javalabs/src/laba7_testGarage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ОПП/javalabs/src/laba9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ОПП/javalabs/src/laba9_AfterEffects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ОПП/javalabs/src/laba9_PO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ОПП/javalabs/src/laba9_Photoshop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ЗКИ/Лабы Бондрев.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../ЗКИ/Лабы Бондрев.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/.vs/labProject/xs/UserPrefs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/.vs/labProject/xs/UserPrefs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/labProject.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/labProject.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/labProject/bin/Debug/net6.0/labProject.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/labProject/bin/Debug/net6.0/labProject.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/labProject/bin/Debug/net6.0/labProject.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/labProject/bin/Debug/net6.0/labProject.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/labProject/bin/Debug/net6.0/labProject.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/labProject/labProject.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/labProject/laba1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/labProject/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/labProject/obj/Debug/net6.0/apphost" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/labProject/obj/Debug/net6.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/labProject/obj/Debug/net6.0/labProject.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/labProject/obj/Debug/net6.0/labProject.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/labProject/obj/Debug/net6.0/labProject.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/labProject/obj/Debug/net6.0/labProject.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/labProject/obj/Debug/net6.0/labProject.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/labProject/obj/Debug/net6.0/labProject.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/labProject/obj/Debug/net6.0/labProject.csproj.BuildWithSkipAnalyzers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/labProject/obj/Debug/net6.0/labProject.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/labProject/obj/Debug/net6.0/labProject.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/labProject/obj/Debug/net6.0/labProject.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/labProject/obj/Debug/net6.0/labProject.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/labProject/obj/Debug/net6.0/labProject.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/labProject/obj/Debug/net6.0/ref/labProject.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/labProject/obj/Debug/net6.0/refint/labProject.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/labProject/obj/labProject.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/labProject/obj/labProject.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/labProject/obj/labProject.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/labProject/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/labProject/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.1/bin/Debug/net6.0/laba1.1.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.1/bin/Debug/net6.0/laba1.1.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.1/bin/Debug/net6.0/laba1.1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.1/bin/Debug/net6.0/laba1.1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.1/bin/Debug/net6.0/laba1.1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.1/bin/Debug/net6.0/laba1.1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.1/bin/Debug/net6.0/laba1.1.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.1/bin/Debug/net6.0/laba1.1.runtimeconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.1/obj/Debug/net6.0/laba1.1.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.1/obj/Debug/net6.0/laba1.1.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.1/obj/Debug/net6.0/laba1.1.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.1/obj/Debug/net6.0/laba1.1.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.1/obj/Debug/net6.0/laba1.1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.1/obj/Debug/net6.0/laba1.1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.1/obj/Debug/net6.0/laba1.1.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.1/obj/Debug/net6.0/laba1.1.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.1/obj/Debug/net6.0/laba1.1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.1/obj/Debug/net6.0/laba1.1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.2/bin/Debug/net6.0/laba1.2.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.2/bin/Debug/net6.0/laba1.2.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.2/bin/Debug/net6.0/laba1.2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.2/bin/Debug/net6.0/laba1.2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.2/bin/Debug/net6.0/laba1.2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.2/bin/Debug/net6.0/laba1.2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.2/bin/Debug/net6.0/laba1.2.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.2/bin/Debug/net6.0/laba1.2.runtimeconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.2/obj/Debug/net6.0/laba1.2.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.2/obj/Debug/net6.0/laba1.2.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.2/obj/Debug/net6.0/laba1.2.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.2/obj/Debug/net6.0/laba1.2.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.2/obj/Debug/net6.0/laba1.2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.2/obj/Debug/net6.0/laba1.2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.2/obj/Debug/net6.0/laba1.2.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.2/obj/Debug/net6.0/laba1.2.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.2/obj/Debug/net6.0/laba1.2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.2/obj/Debug/net6.0/laba1.2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.3/bin/Debug/net6.0/laba1.3.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.3/bin/Debug/net6.0/laba1.3.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.3/bin/Debug/net6.0/laba1.3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.3/bin/Debug/net6.0/laba1.3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.3/bin/Debug/net6.0/laba1.3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.3/bin/Debug/net6.0/laba1.3.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.3/bin/Debug/net6.0/laba1.3.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.3/bin/Debug/net6.0/laba1.3.runtimeconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.3/obj/Debug/net6.0/laba1.3.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.3/obj/Debug/net6.0/laba1.3.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.3/obj/Debug/net6.0/laba1.3.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.3/obj/Debug/net6.0/laba1.3.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.3/obj/Debug/net6.0/laba1.3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.3/obj/Debug/net6.0/laba1.3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.3/obj/Debug/net6.0/laba1.3.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.3/obj/Debug/net6.0/laba1.3.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.3/obj/Debug/net6.0/laba1.3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.3/obj/Debug/net6.0/laba1.3.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.4/bin/Debug/net6.0/laba1.4.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.4/bin/Debug/net6.0/laba1.4.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.4/bin/Debug/net6.0/laba1.4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.4/bin/Debug/net6.0/laba1.4.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.4/bin/Debug/net6.0/laba1.4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.4/bin/Debug/net6.0/laba1.4.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.4/bin/Debug/net6.0/laba1.4.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.4/bin/Debug/net6.0/laba1.4.runtimeconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.4/obj/Debug/net6.0/laba1.4.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.4/obj/Debug/net6.0/laba1.4.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.4/obj/Debug/net6.0/laba1.4.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.4/obj/Debug/net6.0/laba1.4.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.4/obj/Debug/net6.0/laba1.4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.4/obj/Debug/net6.0/laba1.4.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.4/obj/Debug/net6.0/laba1.4.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.4/obj/Debug/net6.0/laba1.4.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.4/obj/Debug/net6.0/laba1.4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba1.4/obj/Debug/net6.0/laba1.4.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba7/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba7/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba7/bin/Debug/net6.0/laba7.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba7/bin/Debug/net6.0/laba7.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba7/bin/Debug/net6.0/laba7.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba7/bin/Debug/net6.0/laba7.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba7/obj/Debug/net6.0/laba7.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba7/obj/Debug/net6.0/laba7.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba7/obj/Debug/net6.0/laba7.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba7/obj/Debug/net6.0/laba7.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba8/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba8/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba8/bin/Debug/net6.0/laba8.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba8/bin/Debug/net6.0/laba8.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba8/bin/Debug/net6.0/laba8.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba8/bin/Debug/net6.0/laba8.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba8/obj/Debug/net6.0/laba8.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba8/obj/Debug/net6.0/laba8.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/labProject/laba8/obj/Debug/net6.0/laba8.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../КПЯП/labProject/laba8/obj/Debug/net6.0/laba8.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/Лабораторная работа №1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/Лабораторная работа №10.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/Лабораторная работа №11.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/Лабораторная работа №12.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/Лабораторная работа №13.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/Лабораторная работа №14.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/Лабораторная работа №15.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/Лабораторная работа №16.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/Лабораторная работа №17.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/Лабораторная работа №18.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/Лабораторная работа №19.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/Лабораторная работа №2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/Лабораторная работа №20.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/Лабораторная работа №21.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/Лабораторная работа №22.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/Лабораторная работа №23.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/Лабораторная работа №24.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/Лабораторная работа №25.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/Лабораторная работа №26.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/Лабораторная работа №27.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/Лабораторная работа №28.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/Лабораторная работа №29.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/Лабораторная работа №3.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/Лабораторная работа №30.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/Лабораторная работа №31.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/Лабораторная работа №32.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/Лабораторная работа №33.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/Лабораторная работа №34.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/Лабораторная работа №35.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/Лабораторная работа №36.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/Лабораторная работа №37.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/Лабораторная работа №38.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/Лабораторная работа №39.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/Лабораторная работа №4.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/Лабораторная работа №40.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/Лабораторная работа №41.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/Лабораторная работа №5.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/Лабораторная работа №6.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/Лабораторная работа №7.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/Лабораторная работа №8.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../КПЯП/Лабораторная работа №9.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../МООП/Заявление на вступление в МООП (3).docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../МООП/МООП ОПЕР составь.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../МООП/МООП Опер Ноябрь1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ОПП/javalabs/out/production/javalabs/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ОПП/javalabs/out/production/javalabs/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ОПП/javalabs/out/production/javalabs/laba6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ОПП/javalabs/out/production/javalabs/laba6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ОПП/javalabs/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ОПП/javalabs/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ОПП/javalabs/src/laba7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ОПП/javalabs/src/laba7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ОПП/javalabs/src/laba7_Auto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ОПП/javalabs/src/laba7_Auto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/1/Бондарев_0К9391_ПР1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/1/Бондарев_0К9391_ПР1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/10/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/10/Бондарев_0К9391_ПР10.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/10/Бондарев_0К9391_ПР10.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/12 презента диаграмма/Диаграмма классов.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/13/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/13/Бондарев_0К9391_ПР13.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/13/Бондарев_0К9391_ПР13.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/14/Бондарев_0К9391_ПР14.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/14/Бондарев_0К9391_ПР14.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/14/дд.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/14/дс.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/15/Бондарев_0К9391_ПР15.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/15/Бондарев_0К9391_ПР15.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/15/дк.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/15/дп.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/16/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/16/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/16/Бондарев_0К9391_ПР16.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/16/Бондарев_0К9391_ПР16.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/17/Бондарев_0К9391_ПР17.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/17/Бондарев_0К9391_ПР17.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/18/Бондарев_0К9391_ПР18.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/18/Бондарев_0К9391_ПР18.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/19/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/19/Бондарев_0К9391_ПР19.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/19/Бондарев_0К9391_ПР19.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/2/Бондарев_0К9391_ПР2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/2/Бондарев_0К9391_ПР2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/2/аа.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/2/теория.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/20/Бондарев_0К9391_ПР20.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/20/Бондарев_0К9391_ПР20.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/21/Бондарев_0К9391_ПР21.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/21/Бондарев_0К9391_ПР21.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/22/Бондарев_0К9391_ПР22.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/22/Бондарев_0К9391_ПР22.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/23/Бондарев_0К9391_ПР23.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/23/Бондарев_0К9391_ПР23.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/24/~$ндарев_0К9391_ПР24.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/24/Бондарев_0К9391_ПР24.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/24/Бондарев_0К9391_ПР24.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/25/Бондарев_0К9391_ПР25.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/25/Бондарев_0К9391_ПР25.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/26/Бондарев_0К9391_ПР26.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/26/Бондарев_0К9391_ПР26.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/27/Бондарев_0К9391_ПР27.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/27/Бондарев_0К9391_ПР27.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/28/ready.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/28/video.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/28/Итоговая.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/28/Итоговый_Бондарев_0К9391.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/28/Итоговый_Бондарев_0К9391.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/28/видео трпо.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/29/Бондарев_0К9391_ПР29.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/29/Бондарев_0К9391_ПР29.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/3/Бондарев_0К9391_ПР3.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/3/Бондарев_0К9391_ПР3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/30/Бондарев_0К9391_ПР30.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/30/Бондарев_0К9391_ПР30.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/31/bpmn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/31/idef3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/31/Бондарев_0К9391_ПР31.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/31/Бондарев_0К9391_ПР31.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/32/Бондарев_0К9391_ПР32.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/32/Бондарев_0К9391_ПР32.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/32/потоков данных.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/32/сущность баркер.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/32/сущность мартин.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/32/сущность чен.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/33/Бондарев_0К9391_ПР33.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/34/Бондарев_0К9391_ПР34.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/34/Бондарев_0К9391_ПР34.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/4/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/4/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/4/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/4/Бондарев_0К9391_ПР4.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/4/Бондарев_0К9391_ПР4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/5/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/5/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/5/Бондарев_0К9391_ПР5.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/5/Бондарев_0К9391_ПР5.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/6/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/6/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/6/Бондарев_0К9391_ПР6.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/6/Бондарев_0К9391_ПР6.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/7/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/7/Бондарев_0К9391_ПР7.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/7/Бондарев_0К9391_ПР7.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/8/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/8/Бондарев_0К9391_ПР8.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/8/Бондарев_0К9391_ПР8.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/9/Бондарев_0К9391_ПР9.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/9/Бондарев_0К9391_ПР9.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/9/Диаграмма без названия.drawio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/Sportloto/checker.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/Sportloto/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/Sportloto/play.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/Sportloto/script.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/Sportloto/settings.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/Sportloto/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/sportlottery-beta-main/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/sportlottery-beta-main/colors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/sportlottery-beta-main/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/sportlottery-beta-main/play.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/sportlottery-beta-main/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/sportlottery-beta-main/settings.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/sportlottery-beta-main/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/Документ Microsoft Word.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/Куча пзшек/Более новая хуйня (2).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/Куча пзшек/Варвашевич В.Н_1К9311_ПЗ.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/Куча пзшек/Итоговый_отчёт.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/Куча пзшек/Климович итоговый отчет.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/Куча пзшек/мое пз.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/Куча пзшек/пз2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/ооп js/Принцип ООП заключается в том.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/ооп js/Текст ЖС ООП.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Практика/ооп js/ооп js.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ТРПО/Бондарев_0К9391_ЛР23.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../ТРПО/Бондарев_0К9391_ЛР23.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Тестирование ПО/Бондарев_0К9391_ЛР2.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Тестирование ПО/Бондарев_0К9391_ЛР2.docx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2QAEKlVhDQAkfguDK2lsXORY4Cr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/antonbonx/Desktop/3 курс/Практика по WEB/site315psd",
+    "list.type.of.created.stylesheet": "CSS"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72ae2ae9-0dc2-442a-a3cd-8017e8d99ae1" name="Changes" comment="" />
+      <created>1684787923533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684787923533</updated>
+      <workItem from="1684787924702" duration="544000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
